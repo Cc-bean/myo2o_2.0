@@ -1,0 +1,116 @@
+2020-03-31 15:052:22.176 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 15076 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-31 15:052:22.197 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-31 15:052:26.490 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 4.896 seconds (JVM running for 6.414)
+2020-03-27 00:000:40.241 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 11536 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:000:40.245 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:000:44.070 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 4.222 seconds (JVM running for 5.268)
+2020-03-27 00:001:44.701 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 12536 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:001:44.708 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:003:31.467 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 107.442 seconds (JVM running for 108.8)
+2020-03-27 00:010:33.267 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 13740 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:010:33.272 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:011:02.620 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 19348 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:011:02.625 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:011:06.156 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:011:06.184 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 3.993 seconds (JVM running for 5.064)
+2020-03-27 00:012:11.782 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 3764 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:012:11.788 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:012:15.086 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:15.106 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 3.717 seconds (JVM running for 4.706)
+2020-03-27 00:012:18.003 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:21.000 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:24.001 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:27.001 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:30.001 [schedulerFactory_Worker-6] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:33.001 [schedulerFactory_Worker-7] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:36.000 [schedulerFactory_Worker-8] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:39.000 [schedulerFactory_Worker-9] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:42.001 [schedulerFactory_Worker-10] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:45.000 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:48.000 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:51.001 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:54.001 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:012:57.001 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:00.001 [schedulerFactory_Worker-6] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:03.001 [schedulerFactory_Worker-7] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:06.001 [schedulerFactory_Worker-8] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:09.002 [schedulerFactory_Worker-9] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:12.001 [schedulerFactory_Worker-10] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:15.001 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:18.001 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:21.001 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:24.002 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:27.001 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:30.001 [schedulerFactory_Worker-6] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:33.001 [schedulerFactory_Worker-7] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:36.000 [schedulerFactory_Worker-8] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:39.000 [schedulerFactory_Worker-9] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:42.001 [schedulerFactory_Worker-10] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:45.001 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:48.002 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:51.001 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:54.001 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:013:57.001 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:014:00.001 [schedulerFactory_Worker-6] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:014:03.001 [schedulerFactory_Worker-7] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:014:23.176 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 18960 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:014:23.181 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:014:27.003 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 4.24 seconds (JVM running for 5.241)
+2020-03-27 00:014:27.009 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:014:30.002 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:014:33.001 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:014:36.001 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:08.576 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 13980 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:015:08.579 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:015:11.944 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 3.752 seconds (JVM running for 4.731)
+2020-03-27 00:015:12.006 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:15.001 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:18.000 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:21.002 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:24.000 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:27.001 [schedulerFactory_Worker-6] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:30.001 [schedulerFactory_Worker-7] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:33.000 [schedulerFactory_Worker-8] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:36.002 [schedulerFactory_Worker-9] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:39.000 [schedulerFactory_Worker-10] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:42.001 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:45.000 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:48.000 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:51.000 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:015:54.000 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:016:15.962 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 3248 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:016:15.966 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:016:19.576 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:016:19.599 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 4.031 seconds (JVM running for 5.08)
+2020-03-27 00:016:21.004 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:016:24.002 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:016:27.001 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:23.419 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 14876 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-27 00:017:23.425 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-27 00:017:26.976 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 4.285 seconds (JVM running for 5.359)
+2020-03-27 00:017:27.009 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:30.002 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:33.001 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:36.000 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:39.000 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:42.001 [schedulerFactory_Worker-6] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:45.001 [schedulerFactory_Worker-7] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:48.001 [schedulerFactory_Worker-8] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:51.001 [schedulerFactory_Worker-9] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:54.002 [schedulerFactory_Worker-10] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:017:57.000 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:00.000 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:03.002 [schedulerFactory_Worker-3] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:06.001 [schedulerFactory_Worker-4] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:09.000 [schedulerFactory_Worker-5] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:12.001 [schedulerFactory_Worker-6] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:15.000 [schedulerFactory_Worker-7] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:18.001 [schedulerFactory_Worker-8] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:21.001 [schedulerFactory_Worker-9] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:24.001 [schedulerFactory_Worker-10] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:27.000 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-27 00:018:30.000 [schedulerFactory_Worker-2] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
+2020-03-21 23:059:08.770 [main] INFO  com.yyc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-H4Q6F05 with PID 5472 (C:\codeStore\ideaWorkspace\myo2o\target\classes started by 15023 in C:\codeStore\ideaWorkspace\myo2o)
+2020-03-21 23:059:08.774 [main] INFO  com.yyc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2020-03-21 23:059:12.448 [main] INFO  com.yyc.o2o.O2oApplication-Started O2oApplication in 4.115 seconds (JVM running for 5.151)
+2020-03-22 00:000:00.010 [schedulerFactory_Worker-1] INFO  c.yyc.o2o.service.impl.ProductSellDailyServiceImpl-Quartz Running
